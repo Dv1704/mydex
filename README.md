@@ -77,7 +77,7 @@ MyDex consists of multiple modular smart contracts:
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/your-username/mydex.git
+git clone https://github.com/dv1704/mydex.git
 cd mydex
 npm install
 ```
