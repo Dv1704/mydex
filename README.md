@@ -1,4 +1,3 @@
-Here is your full `README.md` in **pure Markdown format**, fully cleaned and ready to paste into your GitHub repo. This version is GitHub-friendly, properly structured, and contains no embedded backticks or redundant markers—just the Markdown content you need:
 
 ---
 
